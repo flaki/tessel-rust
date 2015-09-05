@@ -66,7 +66,7 @@ Note: this section needs to be updated to use t2-vm, and also have separate setu
 
 1.	Create a new Cargo project if you don't already have one:
   ```
-  cargo init rust-library
+  cargo new rust-library
   ```
   Note: change `rust-library` to your projects name thoughout the rest of the setup
 
