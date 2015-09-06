@@ -6,4 +6,4 @@ authors = ["Kenneth Nierenhausen <kennethnierenhausen@gmail.com>"]
 
 [dependencies]
 
-unix_socket = "0.3.0"
+unix_socket = "0.2.0"
